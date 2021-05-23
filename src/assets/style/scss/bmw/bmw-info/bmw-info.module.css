@@ -1,0 +1,102 @@
+.main {
+  width: 75%;
+  max-height: 1000000%;
+  margin: 0 auto;
+  display: flex; }
+  .main__leftbar {
+    width: 25%;
+    height: 700px; }
+  .main__content {
+    width: 60%;
+    max-height: 10000px;
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap; }
+
+.info {
+  width: 100%; }
+  .info__title {
+    width: 100%;
+    height: 55px;
+    padding-top: 30px;
+    padding-left: 25px; }
+  .info__photo_desc {
+    display: flex; }
+  .info__photo {
+    width: 40%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .info__photo img {
+      width: 250px;
+      height: 200px; }
+  .info__desc {
+    width: 60%;
+    height: 300px; }
+    .info__desc__star {
+      margin-bottom: 5px;
+      font-size: 14px;
+      padding-top: 12px;
+      margin-left: 30px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid silver; }
+    .info__desc__inmarket_articul {
+      margin-bottom: 5px;
+      font-size: 14px;
+      padding-top: 6px;
+      margin-left: 30px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid silver; }
+      .info__desc__inmarket_articul h6 {
+        font-size: 12px; }
+    .info__desc__price {
+      margin-bottom: 5px;
+      padding-top: 12px;
+      margin-left: 30px;
+      padding-bottom: 6px; }
+    .info__desc__btns {
+      margin-bottom: 5px;
+      margin-left: 30px;
+      padding-bottom: 6px; }
+      .info__desc__btns input {
+        width: 65px;
+        height: 35px;
+        font-size: 1.1rem;
+        text-align: center; }
+      .info__desc__btns button {
+        margin: 5px; }
+
+.sht {
+  display: flex; }
+
+.main_span {
+  display: flex; }
+
+.two_block {
+  height: 45px;
+  width: 100%;
+  display: flex;
+  border-bottom: 1px solid #a2b8a3; }
+  .two_block__item {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase; }
+    .two_block__item:first-child {
+      background-color: #a2b8a3;
+      color: white; }
+    .two_block__item p {
+      margin-top: 15px; }
+
+.full_desc__title {
+  margin-top: 15px; }
+  .full_desc__title p {
+    font-size: 14px; }
+  .full_desc__title ul li {
+    font-size: 14px;
+    list-style: square !important;
+    margin-left: 50px; }
+
+/*# sourceMappingURL=bmw-info.module.css.map */

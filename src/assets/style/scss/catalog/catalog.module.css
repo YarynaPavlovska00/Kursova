@@ -1,0 +1,17 @@
+.main {
+  width: 85%;
+  max-height: 1000000%;
+  margin: 0 auto;
+  display: flex; }
+  .main__leftbar {
+    margin-left: 100px;
+    width: 25%;
+    height: 1000px; }
+  .main__content {
+    width: 90%;
+    max-height: 10000px;
+    margin-left: 2%;
+    display: flex;
+    flex-wrap: wrap; }
+
+/*# sourceMappingURL=catalog.module.css.map */

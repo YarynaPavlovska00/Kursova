@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM;EACJ,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;EACd,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,IAAI;EAEf,UAAO;IACL,UAAU,EAAE,IAAI",
+"sources": ["vidgyky.module.scss"],
+"names": [],
+"file": "vidgyky.module.css"
+}

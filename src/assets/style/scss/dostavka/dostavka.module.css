@@ -1,0 +1,38 @@
+.main {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 25px;
+  font-size: 13px; }
+  .main li {
+    list-style: square !important;
+    margin-top: 4px;
+    margin-left: 45px; }
+  .main__gen {
+    margin-top: 25px;
+    border-bottom: 1px solid silver; }
+    .main__gen ul {
+      margin-top: -20px; }
+    .main__gen p {
+      font-size: 22px; }
+    .main__gen b {
+      font-size: 16px;
+      margin: 0 auto;
+      text-align: center;
+      display: flex;
+      justify-content: center; }
+  .main__image {
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    justify-content: center; }
+    .main__image__item {
+      display: flex;
+      justify-content: center; }
+      .main__image__item:last-child {
+        margin-bottom: 10px; }
+  .main__bottom_inf {
+    border-top: 1px solid silver; }
+
+/*# sourceMappingURL=dostavka.module.css.map */

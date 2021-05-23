@@ -1,0 +1,16 @@
+.main {
+  width: 75%;
+  margin: 0 auto;
+  height: 400px;
+  margin-top: 23px;
+  font-size: 14px; }
+  .main__block {
+    display: flex;
+    flex-direction: row;
+    height: 32px; }
+
+.GENERAL {
+  display: flex;
+  width: 100%; }
+
+/*# sourceMappingURL=rules.module.css.map */

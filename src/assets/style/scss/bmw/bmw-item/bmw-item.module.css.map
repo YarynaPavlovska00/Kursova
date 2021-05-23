@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM;EACJ,YAAY,EAAE,IAAI;EAClB,UAAU,EAAE,IAAI;EAChB,WAAW,EAAE,IAAI;;AAInB,qBAAqB;EACnB,UAAU,EAAE,IAAI;;AAGlB,MAAO;EACL,OAAO,EAAE,IAAI;EAEb,WAAK;IACH,WAAW,EAAE,IAAI;;AAIrB,IAAK;EACH,WAAW,EAAE,IAAI",
+"sources": ["bmw-item.module.scss"],
+"names": [],
+"file": "bmw-item.module.css"
+}

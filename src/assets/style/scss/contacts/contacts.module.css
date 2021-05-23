@@ -1,0 +1,65 @@
+.main {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 25px;
+  font-size: 13px; }
+  .main__gen {
+    margin-top: 25px; }
+    .main__gen__block {
+      display: flex;
+      border: 1px solid silver;
+      border-radius: 3px;
+      height: 170px; }
+      .main__gen__block div {
+        width: 25%;
+        padding: 15px;
+        padding-left: 40px; }
+        .main__gen__block div img {
+          width: 75%; }
+        .main__gen__block div:nth-child(n-2) div {
+          width: 110%;
+          margin-left: -25px;
+          height: 50%;
+          margin-top: -15px;
+          padding-left: 10px; }
+          .main__gen__block div:nth-child(n-2) div:last-child {
+            margin-top: 1px; }
+
+.back_call {
+  font-size: 18px;
+  border-bottom: 1px solid silver;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  width: 100%; }
+  .back_call__inf__item {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    width: 100%;
+    height: 45px; }
+    .back_call__inf__item:last-child {
+      height: 400px; }
+    .back_call__inf__item__sp {
+      margin-top: 5px;
+      width: 18% !important;
+      text-align: end; }
+    .back_call__inf__item__in {
+      width: 100%;
+      margin-left: 30px; }
+      .back_call__inf__item__in input {
+        width: 100%;
+        padding: 8px; }
+      .back_call__inf__item__in textarea {
+        width: 100%;
+        height: 300px;
+        padding: 8px; }
+
+.btn {
+  padding-left: 40px;
+  width: 110%;
+  display: flex;
+  justify-content: end;
+  margin-left: 85%;
+  margin-top: -5%; }
+
+/*# sourceMappingURL=contacts.module.css.map */

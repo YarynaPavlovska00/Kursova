@@ -1,0 +1,39 @@
+[
+    {
+      "title": "BMW",
+      "photo": "http://www.media4growth.com/public/uploads/editor/2017-07-10/1499687729.jpg",
+      "desc": "Німецький автобудівний та авіамоторний концерн і однойменна торгова марка автомобілів преміум класу і мотоциклів.",
+      "url": "/catalog/bmw"
+    },
+
+    {
+      "title": "Volvo",
+      "photo": "https://a.d-cd.net/b5d7378s-960.jpg",
+      "desc":  "Шведський марка авто зі штаб-квартирою у місті Гетеборг.Також виробляє тягачі, причепи, трактори і будівельні машини",
+      "url": "/catalog/mercedes"
+    },
+    {
+      "title": "Mercedes Benz",
+      "photo": "https://avtopn.com.ua/img/carmodels/mercedes.png",
+      "desc": "Німецька марка транспортних засобів, що належать автобудівному концерну «Даймлер» та/або виробляють продукцію під цією маркою.",
+      "url": "/catalog/volvo"
+    },
+
+    {
+      "title": "Ford",
+      "photo": "https://ford.ua/Themes/Ford/Content/Images/ford_logo.png",
+      "desc": "Американська автомобілебудівна компанія, виробник автомобілів марки «Форд». У 1903 компанію заснував Генрі Форд.",
+      "url": "/catalog/ford"
+
+    },
+    {
+      "title": "Volkswagen",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5W7KTezOhZBHTZS36yLZhRJErkycKsrNfv_9l7VHsV2XQ2qRkH6Xmd1nkBmp_ZdCZ-l0&usqp=CAU",
+      "desc": "Німецька марка авто,головна серед декількох інших, які належить концерну Volkswagen AG. Створена в 1930-х роках ХХ ст.",
+      "url": "/catalog/volkswagen"
+
+    }
+
+
+
+]

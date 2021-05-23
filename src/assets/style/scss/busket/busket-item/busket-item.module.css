@@ -1,0 +1,54 @@
+.main {
+  width: 100%;
+  margin: 0 auto; }
+  .main__navbar {
+    display: flex;
+    font-size: 14px; }
+  .main__first {
+    width: calc(15% - 1px);
+    height: 95px;
+    border-bottom: 0.5px solid silver;
+    border-left: 0.5px solid silver;
+    display: flex;
+    justify-content: center; }
+    .main__first p {
+      padding-top: 35px; }
+  .main__second {
+    width: 32.5%;
+    height: 95px;
+    border-bottom: 0.5px solid silver;
+    border-left: 0.5px solid silver;
+    display: flex;
+    justify-content: center; }
+    .main__second p {
+      padding-top: 35px; }
+  .main__third {
+    width: 32.5%;
+    height: 95px;
+    border-bottom: 0.5px solid silver;
+    border-left: 0.5px solid silver;
+    display: flex;
+    justify-content: center; }
+    .main__third p {
+      padding-top: 35px; }
+  .main__four {
+    width: 10%;
+    height: 95px;
+    border-bottom: 0.5px solid silver;
+    border-left: 0.5px solid silver;
+    display: flex;
+    justify-content: center; }
+    .main__four p {
+      padding-top: 35px; }
+  .main__five {
+    width: 10%;
+    height: 95px;
+    border-bottom: 0.5px solid silver;
+    border-left: 0.5px solid silver;
+    border-right: 0.5px solid silver;
+    display: flex;
+    justify-content: center; }
+    .main__five p {
+      padding-top: 35px; }
+
+/*# sourceMappingURL=busket-item.module.css.map */

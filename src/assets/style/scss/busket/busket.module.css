@@ -1,0 +1,87 @@
+.main {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 30px; }
+  .main__general {
+    display: flex;
+    flex-direction: column; }
+  .main__navbar {
+    display: flex;
+    font-size: 14px; }
+  .main__first {
+    width: 15%;
+    height: 30px;
+    border: 1px solid silver;
+    display: flex;
+    justify-content: center; }
+    .main__first p {
+      padding-top: 5px; }
+  .main__second {
+    width: 32.5%;
+    height: 30px;
+    border: 1px solid silver;
+    border-left: none;
+    display: flex;
+    justify-content: center; }
+    .main__second p {
+      padding-top: 5px; }
+  .main__third {
+    width: 32.5%;
+    height: 30px;
+    border: 1px solid silver;
+    border-left: none;
+    display: flex;
+    justify-content: center; }
+    .main__third p {
+      padding-top: 5px; }
+  .main__four {
+    width: 10%;
+    height: 30px;
+    border: 1px solid silver;
+    border-left: none;
+    display: flex;
+    justify-content: center; }
+    .main__four p {
+      padding-top: 5px; }
+  .main__five {
+    width: 10%;
+    height: 30px;
+    border: 1px solid silver;
+    border-left: none;
+    display: flex;
+    justify-content: center; }
+    .main__five p {
+      padding-top: 5px; }
+
+.all {
+  width: 40%;
+  margin-top: 30px;
+  display: flex;
+  height: 35px;
+  margin-left: 60%;
+  margin-bottom: 30px; }
+  .all__item {
+    width: 50%;
+    border: 1px solid silver;
+    text-align: end; }
+    .all__item:last-child {
+      border-left: none; }
+    .all__item p {
+      font-size: 14px;
+      margin-top: 5px;
+      margin-right: 5px; }
+
+.oforml {
+  width: 20%;
+  height: 35px;
+  font-size: 14px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #db7b5a;
+  color: white;
+  margin-left: 80%;
+  margin-bottom: 100px; }
+
+/*# sourceMappingURL=busket.module.css.map */
